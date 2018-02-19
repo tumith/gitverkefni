@@ -11,3 +11,8 @@
     git statur = Sýnir núverandi stöðu git.
     git diff = Ber saman breytt skjöl í gitinu.
     git checkout = Skiptir um "branch"
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+    git diff = Ber saman breytt skjöl í gitinu
+    git diff --staged = Ber saman breytt skjöl á uppsetningarvsvæðinu
+    git diff commit1 commit2 = Ber saman tvö mismunandi commits og finnur breytingu á þeim.
