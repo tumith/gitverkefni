@@ -3,3 +3,9 @@
 3. það skoðrar hvort all er í lægi
 4. ESD = ELectrostatic discharge, það sentir rafman á milli.
 5. Það þarf að vera rétt volt
+6.  1. Greina vandamálið.
+    2. Setja fram tilgátu líklega orsök.
+    3. Prufa tilgátu til að greina orsök
+    4. Búa til áætlun um aðgerðir til að leysa vandann.
+    5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
+    6. Skrá niðurstöður, framkvæmdir og útkomur.
