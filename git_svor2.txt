@@ -1,1 +1,2 @@
 1. RAM er tölvuminni sen tekur jafn langan tíma að skrifa í eða lesa og það skiptyir ekki máli hvað er að hlaðast inn.
+2. ROM er tölvu minni sem getur bara lesið dæmi um ROM minni eru CD, DVD og ROM kubbar.
