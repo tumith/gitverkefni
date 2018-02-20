@@ -11,3 +11,6 @@
     6. Skrá niðurstöður, framkvæmdir og útkomur.
 7. opin spuring er þegar maður getur svarað öllu en clost spurning er þegar maður getur bara svarað já eða nei.
 8. Jaðartæki er tæki sem tengt er við tölvu og hún stýrir, t.d. prentari, diskadrif, vefmyndavélar og mótald.
+9. 	1. Mús
+   	2. Lyklaborð
+	3. heyrnatól
