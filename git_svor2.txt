@@ -9,3 +9,4 @@
     4. Búa til áætlun um aðgerðir til að leysa vandann.
     5. Staðfesta fulla kerfisvirkni og ef á við, bæta inn fyrirbyggjandi viðhald.
     6. Skrá niðurstöður, framkvæmdir og útkomur.
+7. opin spuring er þegar maður getur svarað öllu en clost spurning er þegar maður getur bara svarað já eða nei.
