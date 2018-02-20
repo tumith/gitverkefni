@@ -1,0 +1,1 @@
+1. RAM er tölvuminni sen tekur jafn langan tíma að skrifa í eða lesa og það skiptyir ekki máli hvað er að hlaðast inn.
